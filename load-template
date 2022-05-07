@@ -1,0 +1,9 @@
+To load our Discord Community template, you need to add the bot.
+
+Invite : https://discord.com/oauth2/authorize?client_id=704638190300037200&permissions=8&redirect_url=https://discord.style/thanks&response_type=code&scope=bot%20applications.commands
+When you invited the bot, type the command : ds.load template discord.new/EyNFvkBBSJ8h
+
+The template will be loaded, you will receive the prossecus in your DMs.
+
+
+
